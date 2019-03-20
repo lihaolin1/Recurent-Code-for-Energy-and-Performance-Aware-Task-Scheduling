@@ -8,5 +8,5 @@ Inorder to use this code(in liniux system), follow the step shown below.
 2. go in to the file where you save this code.  
 3. run command "g++ code_name.c -o code_name" to compile the code.  
 4. run command "./code_name" to run code.  
-5. input the variable, if you don't know waht the input variables means, you can see "what_is_input.md" file.  
+5. input the variable, if you don't know what the input variables means, you can see "what_is_input.md" file.  
 6. get the result
