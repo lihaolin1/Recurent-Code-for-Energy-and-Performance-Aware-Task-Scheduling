@@ -10,3 +10,4 @@ Inorder to use this code(in liniux system), follow the step shown below.
 4. run command "./code_name" to run code.  
 5. input the variable, if you don't know what the input variables means, you can see "what_is_input.md" file.  
 6. get the result
+ 
