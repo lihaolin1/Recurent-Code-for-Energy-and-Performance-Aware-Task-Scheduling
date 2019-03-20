@@ -3,7 +3,7 @@ This input will tell our code how many  tasks we have, in order to build a matri
 
 core number: (as a example: 3) (int number) 
 This input will tell our code how many  core we can use to process our tasks, in order to build a matrix to save the time consumption of each task in each core and generate the final result.  
-time consumption matrix: (all elements should be int number) 
+time consumption matrix: (all elements should be int number)   
 9 7 5   
 8 6 5   
 6 5 4   
@@ -29,7 +29,7 @@ number of edge: (as a example: 15) (int number)
  This is the number of edges in the “rule” graph. 
 
 order graph:(can cpoy this directly) 
-(as a example shown below)
+(as a example shown below)  
 1 2   
 1 3   
 1 4   
